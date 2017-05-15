@@ -1,0 +1,35 @@
+/* Main instaclone style */
+body{
+	background-color: #ededed;
+}
+a{
+	color: #fff;
+}
+.headerSection{
+	background-color: #ffcd68;	
+}
+.headerSection img{
+	margin: 2% 2% 1%;
+}
+.btn, .btn-large{
+	background-color: #51da9b;
+	margin-left: 10%;
+}
+
+.footerSection{
+	background-color: #ffcd68;
+	min-height: 100px;
+}
+
+.social{
+	margin-top: 9%;
+}
+.card-panel{
+	background-color: #51da9b;
+}
+footer.page-footer{
+	background-color: #ffcd68;
+}
+.downloadApp{
+	margin-top: 4%;
+}
